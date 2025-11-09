@@ -8,4 +8,5 @@ part02 – GUI version for better visual interaction.
 Images/ – Book cover images used in the program.
 
 # Running the program
-Run src/part01/QUBLibrary.java or src/part02/QUBLibraryUpdated.java
+Run src/part01/QUBLibrary.java 
+or src/part02/QUBLibraryUpdated.java
