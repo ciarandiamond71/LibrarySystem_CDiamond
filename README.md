@@ -1,13 +1,11 @@
 # LibrarySystem_CDiamond
 A Java Library Management System demonstrating OOP programming and basic data management features.
-The system simulates a library that manages books and their lending status
-It allows users to view, borrow, and return books.
+It allows users to manage a collection of books — including adding, removing, listing, borrowing, returning, and ranking them by popularity.
 
 # Structure
-part01/ – Initial implementation of the library system.  
-part02 – Updated version with improvements and additional features.  
+part01/ – A console-based version.  
+part02 – GUI version for better visual interaction.  
 Images/ – Book cover images used in the program.
 
 # Running the program
-Open in Eclipse or another java IDE
 Run src/part01/QUBLibrary.java or src/part02/QUBLibraryUpdated.java
